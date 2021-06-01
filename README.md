@@ -20,7 +20,7 @@ However, we cannot make any inference since we will have to research the composi
 How does the size of the school impact the performance?
 
 ## Overview
-#There are 3 main files:
-PySchool.ipynb
-schools_complete.csv
-students_complete.csv
+There are 3 main files:
+PySchool.ipynb /
+schools_complete.csv /
+students_complete.csv /
